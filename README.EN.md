@@ -16,7 +16,7 @@ English | [简体中文](./README.md)
 # 目录
 
 - [Ecosystem](#Ecosystem)
-- [必须收藏的资源](#必须收藏的资源)
+- [Useful Resources](#Useful Resources)
 - [快速入门](#快速入门)
   - [安装](#安装)
   - [用法](#用法)
@@ -37,19 +37,19 @@ English | [简体中文](./README.md)
 | [omi-docs](https://github.com/Tencent/omi/blob/master/docs/main-concepts.cn.md)                                                           | 官方文档                       |
 | [omip![](https://raw.githubusercontent.com/dntzhang/cax/master/asset/hot.png) ](https://github.com/Tencent/omi/tree/master/packages/omip) | 直接使用 ZARA 开发小程序！！！ |
 
-### 特性
+### Why Zara
 
 - 小巧的尺寸
 - 支持 `TypeScript`
 
-## 必须收藏的资源
+## Useful Resources
 
 - [你必须收藏 ES6 Spread Operator 技巧](https://github.com/Tencent/omi/blob/master/tutorial/spread-operator.cn.md)
 - [使用 requestIdleCallback](https://div.io/topic/1370)
 
 ## QuickStart
 
-### 安装
+### Install
 
 ```bash
 $ npm i zara-cli -g               # install cli
@@ -59,7 +59,7 @@ $ npm start                      # develop
 $ npm run build                  # release
 ```
 
-目录说明:
+Directory description:
 
 ```
 ├─ config
@@ -73,7 +73,7 @@ $ npm run build                  # release
 │  └─ index.js    //入口文件，会 build 成  index.html
 ```
 
-### 用法
+### Usage
 
 ```vue
 <template>
@@ -94,11 +94,21 @@ export default {
 
 ## Contribution
 
-## 维护者
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <a target="_blank" href="https://github.com/yokiyokiyoki"><img width="60px" src="https://avatars1.githubusercontent.com/u/20388810?s=460&v=4"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+## Maintainers
 
 - [yoki](https://github.com/yokiyokiyoki)
 
-## 感谢
+## Thanks
 
 - [preact](https://github.com/developit/preact)
 
