@@ -9,3 +9,6 @@
   <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/v/vue.svg" alt="Version"></a>
   <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/l/vue.svg" alt="License"></a>
 </p>
+
+<h2 align="center">ZARA - 下一代前端框架（主标题）</h2>
+<p align="center"><b>基于 Web Components 并支持 IE8（简单介绍）</b></p>
