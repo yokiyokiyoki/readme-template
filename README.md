@@ -21,3 +21,13 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | [omi-docs](https://github.com/Tencent/omi/blob/master/docs/main-concepts.cn.md)                                                           | 官方文档                      |
 | [omip![](https://raw.githubusercontent.com/dntzhang/cax/master/asset/hot.png) ](https://github.com/Tencent/omi/tree/master/packages/omip) | 直接使用 Omi 开发小程序！！！ |
+
+### 特性
+
+- 小巧的尺寸
+- 支持 `TypeScript`
+
+## 必须收藏的资源
+
+- [你必须收藏 ES6 Spread Operator 技巧](https://github.com/Tencent/omi/blob/master/tutorial/spread-operator.cn.md)
+- [使用 requestIdleCallback](https://div.io/topic/1370)
