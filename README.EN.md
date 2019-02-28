@@ -16,16 +16,13 @@ English | [简体中文](./README.md)
 # 目录
 
 - [Ecosystem](#Ecosystem)
-- [Useful Resources](#Useful Resources)
-- [快速入门](#快速入门)
-  - [安装](#安装)
-  - [用法](#用法)
-- [调试工具](#调试工具)
-- [浏览器兼容](#浏览器兼容)
-- [相关链接](#相关链接)
-- [贡献者们](#贡献者们)
-- [维护者](#维护者)
-- [感谢](#感谢)
+- [Useful Resources](#Useful-Resources)
+- [QuickStart](#QuickStart)
+  - [Install](#Install)
+  - [Usage](#Usage)
+- [Contribution](#Contribution)
+- [Maintainers](#Maintainers)
+- [Thanks](#Thanks)
 - [License](#license)
 
 ## Ecosystem
@@ -42,7 +39,7 @@ English | [简体中文](./README.md)
 - 小巧的尺寸
 - 支持 `TypeScript`
 
-## Useful Resources
+## Useful-Resources
 
 - [你必须收藏 ES6 Spread Operator 技巧](https://github.com/Tencent/omi/blob/master/tutorial/spread-operator.cn.md)
 - [使用 requestIdleCallback](https://div.io/topic/1370)
