@@ -17,20 +17,11 @@
 
 - [生态](#生态)
 - [必须收藏的资源](#必须收藏的资源)
-- [一个 HTML 完全上手](#一个-html-完全上手)
-- [再花 30 秒完全上手](#再花-30-秒完全上手)
 - [快速入门](#快速入门)
   - [安装](#安装)
-  - [项目模板](#项目模板)
-  - [Hello Element](#hello-element)
-  - [TodoApp](#todoapp)
-  - [Store](#store)
-  - [Mitt](#mitt)
-  - [Observe](#observe)
-  - [生命周期](#生命周期)
+  - [用法](#用法)
 - [调试工具](#调试工具)
 - [浏览器兼容](#浏览器兼容)
-- [React 组件转成 Omi](#react-组件转成-omi)
 - [相关链接](#相关链接)
 - [贡献者们](#贡献者们)
 - [维护者](#维护者)
@@ -55,3 +46,46 @@
 
 - [你必须收藏 ES6 Spread Operator 技巧](https://github.com/Tencent/omi/blob/master/tutorial/spread-operator.cn.md)
 - [使用 requestIdleCallback](https://div.io/topic/1370)
+
+## 快速入门
+
+### 安装
+
+```bash
+$ npm i omi-cli -g               # install cli
+$ omi init my-app     # init project, you can also exec 'omi init' in an empty folder
+$ cd my-app           # please ignore this command if you executed 'omi init' in an empty folder
+$ npm start                      # develop
+$ npm run build                  # release
+```
+
+目录说明:
+
+```
+├─ config
+├─ public
+├─ scripts
+├─ src
+│  ├─ assets
+│  ├─ elements    //存放所有 custom elements
+│  ├─ store       //存放所有页面的 store
+│  ├─ admin.js    //入口文件，会 build 成  admin.html
+│  └─ index.js    //入口文件，会 build 成  index.html
+```
+
+### 用法
+
+```vue
+<template>
+  <Slider v-model="value" range />
+</template>
+<script>
+export default {
+  data() {
+    return {
+      value: [20, 50]
+    };
+  }
+};
+</script>
+```
