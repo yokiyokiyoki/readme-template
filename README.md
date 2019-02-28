@@ -96,8 +96,12 @@ export default {
 
 ## 维护者
 
+- [yoki](https://github.com/yokiyokiyoki)
+
 ## 感谢
+
+- [preact](https://github.com/developit/preact)
 
 ## License
 
-- MIT
+- [MIT](https://opensource.org/licenses/MIT)
