@@ -52,7 +52,7 @@
 ### 安装
 
 ```bash
-$ npm i omi-cli -g               # install cli
+$ npm i zara-cli -g               # install cli
 $ omi init my-app     # init project, you can also exec 'omi init' in an empty folder
 $ cd my-app           # please ignore this command if you executed 'omi init' in an empty folder
 $ npm start                      # develop
@@ -89,3 +89,15 @@ export default {
 };
 </script>
 ```
+
+[→ simple demo](https://tencent.github.io/omi/packages/omi/examples/counter/)
+
+## 贡献者们
+
+## 维护者
+
+## 感谢
+
+## License
+
+- MIT
