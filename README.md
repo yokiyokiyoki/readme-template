@@ -1,4 +1,4 @@
-[English](./art-of-readme.md) | 简体中文
+[English](./README.EN.md) | 简体中文
 
 <p align="center"><img width="100" src="https://vuejs.org/images/logo.png"></p>
 
@@ -98,7 +98,7 @@ export default {
     <tbody>
         <tr>
             <td>
-                <a target="_blank" href="https://github.com/dntzhang"><img width="60px" src="https://avatars2.githubusercontent.com/u/7917954?s=60&amp;v=4"></a>
+                <a target="_blank" href="https://github.com/yokiyokiyoki"><img width="60px" src="https://avatars1.githubusercontent.com/u/20388810?s=460&v=4"></a>
             </td>
         </tr>
     </tbody>
