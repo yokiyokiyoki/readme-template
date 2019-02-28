@@ -1,4 +1,4 @@
-[English](./art-of-readme.md) | 简体中文
+English | [简体中文](./README.md)
 
 <p align="center"><img width="100" src="https://vuejs.org/images/logo.png"></p>
 
@@ -15,7 +15,7 @@
 
 # 目录
 
-- [生态](#生态)
+- [Ecosystem](#Ecosystem)
 - [必须收藏的资源](#必须收藏的资源)
 - [快速入门](#快速入门)
   - [安装](#安装)
@@ -28,11 +28,11 @@
 - [感谢](#感谢)
 - [License](#license)
 
-## 生态
+## Ecosystem
 
 [→ 生态学习路线图](https://github.com/Tencent/omi/tree/master/assets/rm.md)
 
-| **项目**                                                                                                                                  | **描述**                       |
+| **Project**                                                                                                                               | **Description**                |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | [omi-docs](https://github.com/Tencent/omi/blob/master/docs/main-concepts.cn.md)                                                           | 官方文档                       |
 | [omip![](https://raw.githubusercontent.com/dntzhang/cax/master/asset/hot.png) ](https://github.com/Tencent/omi/tree/master/packages/omip) | 直接使用 ZARA 开发小程序！！！ |
@@ -47,7 +47,7 @@
 - [你必须收藏 ES6 Spread Operator 技巧](https://github.com/Tencent/omi/blob/master/tutorial/spread-operator.cn.md)
 - [使用 requestIdleCallback](https://div.io/topic/1370)
 
-## 快速入门
+## QuickStart
 
 ### 安装
 
@@ -92,17 +92,7 @@ export default {
 
 [→ simple demo](https://tencent.github.io/omi/packages/omi/examples/counter/)
 
-## 贡献者们
-
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <a target="_blank" href="https://github.com/dntzhang"><img width="60px" src="https://avatars2.githubusercontent.com/u/7917954?s=60&amp;v=4"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+## Contribution
 
 ## 维护者
 
