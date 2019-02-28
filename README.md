@@ -13,14 +13,38 @@
 <h2 align="center">ZARA - 下一代前端框架（主标题）</h2>
 <p align="center"><b>基于 Web Components 并支持 IE8（简单介绍）</b></p>
 
+# 目录
+
+- [生态](#生态)
+- [必须收藏的资源](#必须收藏的资源)
+- [一个 HTML 完全上手](#一个-html-完全上手)
+- [再花 30 秒完全上手](#再花-30-秒完全上手)
+- [快速入门](#快速入门)
+  - [安装](#安装)
+  - [项目模板](#项目模板)
+  - [Hello Element](#hello-element)
+  - [TodoApp](#todoapp)
+  - [Store](#store)
+  - [Mitt](#mitt)
+  - [Observe](#observe)
+  - [生命周期](#生命周期)
+- [调试工具](#调试工具)
+- [浏览器兼容](#浏览器兼容)
+- [React 组件转成 Omi](#react-组件转成-omi)
+- [相关链接](#相关链接)
+- [贡献者们](#贡献者们)
+- [维护者](#维护者)
+- [感谢](#感谢)
+- [License](#license)
+
 ## 生态
 
 [→ 生态学习路线图](https://github.com/Tencent/omi/tree/master/assets/rm.md)
 
-| **项目**                                                                                                                                  | **描述**                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [omi-docs](https://github.com/Tencent/omi/blob/master/docs/main-concepts.cn.md)                                                           | 官方文档                      |
-| [omip![](https://raw.githubusercontent.com/dntzhang/cax/master/asset/hot.png) ](https://github.com/Tencent/omi/tree/master/packages/omip) | 直接使用 Omi 开发小程序！！！ |
+| **项目**                                                                                                                                  | **描述**                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| [omi-docs](https://github.com/Tencent/omi/blob/master/docs/main-concepts.cn.md)                                                           | 官方文档                       |
+| [omip![](https://raw.githubusercontent.com/dntzhang/cax/master/asset/hot.png) ](https://github.com/Tencent/omi/tree/master/packages/omip) | 直接使用 ZARA 开发小程序！！！ |
 
 ### 特性
 
