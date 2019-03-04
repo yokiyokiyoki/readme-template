@@ -107,7 +107,7 @@ export default {
 
 ## Thanks
 
-- [preact](https://github.com/developit/preact)
+- [README-templete](https://github.com/yokiyokiyoki/readme-template)
 
 ## License
 
